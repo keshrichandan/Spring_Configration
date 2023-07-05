@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: CONFIG-SERVER
+    name: DEFAULT-SERVER
   cloud:
     config:
       server:
